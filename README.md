@@ -1,0 +1,1 @@
+This repository contains the coding standards and best practices to be followed by all developers contributing to the company's projects using Go, React.js, and Laravel for backend, frontend, and mobile applications, respectively. Adhering to these standards ensures code consistency, readability, maintainability, and smooth integration of new developers into the team.
