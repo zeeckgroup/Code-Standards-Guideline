@@ -1,12 +1,5 @@
 # Project Title || Issue Title - #IssueNumber
 
-## Type of Issue
-- [ ] Bug
-- [x] Feature Request
-- [ ] Enhancement
-- [ ] Documentation
-- [ ] Other (Specify)
-
 ## Description
 [Provide a brief overview of the issue or task to be addressed.]
 
@@ -31,13 +24,14 @@
 - [TRELLO](https://trello.com/)
 - [NOTION](https://notion.com/)
 
-## Labels
-- [ ] High Priority
-- [ ] Medium Priority
-- [ ] Low Priority
-- [ ] Needs Discussion
-- [ ] Needs Triage
-- [ ] Blocked
+## Metadata (Optional)
+| Type of Issue          | Issue Label                   | Dates      |
+|----------------------|-------------------------|----------- |
+|  Bug                        | High Priority               | Created     |
+| Feature Request      | Medium Priority         | 04/01/24  |
+| Enhancement          | Low Priority                |                  |
+| Documentation [✔️] | Needs Discussion [✔️] |Due  Date |
+| Documentation       | Blocked                       | 04/01/24 |
 
 ## Assignees
 @assignee1

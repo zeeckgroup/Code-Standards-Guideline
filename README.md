@@ -9,10 +9,12 @@
   - [💡 Standards \& Guidelines ](#-standards--guidelines-)
     - [Git \& GitHub Guidelines ](#git--github-guidelines-)
     - [Document Templates ](#document-templates-)
+    - [API Documentation Standards ](#api-documentation-standards-)
+    - [General Coding Principles \& Practice ](#general-coding-principles--practice-)
     - [JavaScript - Framework Standards \& Guidelines ](#javascript---framework-standards--guidelines-)
     - [Golang Standards \& Guidelines ](#golang-standards--guidelines-)
-    - [LARAVEL Standards \& Guidelines ](#laravel-standards--guidelines-)
-    - [API Documentation Standards ](#api-documentation-standards-)
+    - [PHP and LARAVEL Standards \& Guidelines ](#php-and-laravel-standards--guidelines-)
+    - [Flutter Standards \& Guidelines ](#flutter-standards--guidelines-)
   - [💻 Contact ](#-contact-)
   - [🤝 Contributing ](#-contributing-)
   - [📝 License ](#-license-)
@@ -50,13 +52,17 @@
 
 ### Git & GitHub Guidelines <a name="git--github-guidelines"></a>
 
-Provides guidelines for organizing repositories, creating reviews and team colaboration are contained. [Git & GitHub](./GUIDELINES/GIT_SPEC.md)
+Provides guidelines for organizing repositories, creating reviews and team colaboration.
+
+> [Git & GitHub](./GUIDELINES/GIT_SPEC.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Document Templates <a name="document-templates"></a>
 
-Templates for README, LICENSE, PullRequests, Issues etc. These are template standards used for all projects at [Zeeck Digital Concept LTD](https://zeeckgroup.com/). [Templates](./TEMPLATES/)
+Templates for README, LICENSE, PullRequests, Issues etc. These are template standards used for all projects at [Zeeck Digital Concept LTD](https://zeeckgroup.com/).
+
+> [Templates](./TEMPLATES/)
 
 - [README Template](./TEMPLATES/README.md)
 - [LICENSE Template](./TEMPLATES/LICENSE)
@@ -65,27 +71,51 @@ Templates for README, LICENSE, PullRequests, Issues etc. These are template stan
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### API Documentation Standards <a name="api-documentation-standards--guidelines"></a>
+
+Provides guidelines for developer working on API servers.
+
+> [API Standards](./STANDARDS/API/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### General Coding Principles & Practice <a name="git--github-guidelines"></a>
+
+Provides general principles and best practices to be used for software development across languages and frameworks.
+
+> [General Coding Principles](./GUIDELINES/CODING_SPEC.md)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### JavaScript - Framework Standards & Guidelines <a name="javascript---framework-standards--guidelines"></a>
 
-Guidelines for developers working on projects using JavaScript/TypeScript and ReactJS/NextJS application. [JS & REACT/NEXT Standards](./STANDARDS/JS/JS_SPEC.md)
+Guidelines for developers working on projects using JavaScript/TypeScript and ReactJS/NextJS application.
+
+> [JS & REACT/NEXT Standards](./STANDARDS/JS/JS_SPEC.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Golang Standards & Guidelines <a name="golang-framework-standards--guidelines"></a>
 
-Guidelines for developers working on projects using Go language. [Golang Standards](./STANDARDS/GO/GO_SPEC.md)
+Guidelines for developers working on projects using Go language.
+
+> [Golang Standards](./STANDARDS/GO/GO_SPEC.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### LARAVEL Standards & Guidelines <a name="laravel-standards--guidelines"></a>
+### PHP and LARAVEL Standards & Guidelines <a name="php-and-laravel-standards--guidelines"></a>
 
-Guidelines for developers working on projects using Laravel. [Laravel Standards](./STANDARDS/LARAVEL/)
+Guidelines for developers working on projects using Laravel.
+
+> [PHP and LARAVEL Standards & Guidelines](./STANDARDS/PHP/PHP.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### API Documentation Standards <a name="api-documentation-standards--guidelines"></a>
+### Flutter Standards & Guidelines <a name="flutter-standards--guidelines"></a>
 
-Guidelines for developer working on API servers. [API Standards](./STANDARDS/API/)
+Guidelines for developers working on projects using Flutter.
+
+> [Flutter Standards](./STANDARDS/FLUTTER/FLUTTER_SPEC.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
